@@ -1,0 +1,11 @@
+employee_id,manager,job_title,direct_reports,reports_payroll
+100,Steven King,President,14,155400
+123,Shanta Vollman,Stock Manager,8,25900
+121,Adam Fripp,Stock Manager,8,25400
+122,Payam Kaufling,Stock Manager,8,23600
+124,Kevin Mourgos,Stock Manager,8,23000
+120,Matthew Weiss,Stock Manager,8,22100
+148,Gerald Cambrault,Sales Manager,6,51900
+145,John Singh,Sales Manager,6,51000
+146,Karen Partners,Sales Manager,6,51000
+149,Eleni Zlotkey,Sales Manager,6,50000

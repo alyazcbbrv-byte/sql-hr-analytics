@@ -1,0 +1,11 @@
+employee_id,employee,department_name,salary,dept_avg,pct_above_avg
+114,Den Li,Purchasing,11000,4150.0,165.0
+121,Adam Fripp,Shipping,8200,3476.0,136.0
+120,Matthew Weiss,Shipping,8000,3476.0,130.0
+122,Payam Kaufling,Shipping,7900,3476.0,127.0
+123,Shanta Vollman,Shipping,6500,3476.0,87.0
+124,Kevin Mourgos,Shipping,5800,3476.0,67.0
+103,Alexander James,IT,9000,5760.0,56.0
+145,John Singh,Sales,14000,8956.0,56.0
+146,Karen Partners,Sales,13500,8956.0,51.0
+108,Nancy Gruenberg,Finance,12008,8601.0,40.0

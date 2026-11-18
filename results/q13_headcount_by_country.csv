@@ -1,0 +1,15 @@
+region_name,country_name,locations,headcount,payroll
+Americas,United States of America,4,68,344416
+Europe,United Kingdom,3,35,311000
+Americas,Canada,2,2,19000
+Europe,Germany,1,1,10000
+Asia,Australia,1,0,0
+Americas,Brazil,1,0,0
+Asia,China,1,0,0
+Asia,India,1,0,0
+Europe,Italy,2,0,0
+Asia,Japan,2,0,0
+Americas,Mexico,1,0,0
+Europe,Netherlands,1,0,0
+Asia,Singapore,1,0,0
+Europe,Switzerland,2,0,0

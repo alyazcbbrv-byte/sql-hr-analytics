@@ -1,0 +1,27 @@
+department_name,rank,employee,salary
+Accounting,1,Shelley Higgins,12008
+Accounting,2,William Gietz,8300
+Administration,1,Jennifer Whalen,4400
+Executive,1,Steven King,24000
+Executive,2,Lex Garcia,17000
+Executive,2,Neena Yang,17000
+Finance,1,Nancy Gruenberg,12008
+Finance,2,Daniel Faviet,9000
+Finance,3,John Chen,8200
+Human Resources,1,Susan Jacobs,6500
+IT,1,Alexander James,9000
+IT,2,Bruce Miller,6000
+IT,3,David Williams,4800
+IT,3,Valli Jackson,4800
+Marketing,1,Michael Martinez,13000
+Marketing,2,Pat Davis,6000
+Public Relations,1,Hermann Brown,10000
+Purchasing,1,Den Li,11000
+Purchasing,2,Alexander Khoo,3100
+Purchasing,3,Shelli Baida,2900
+Sales,1,John Singh,14000
+Sales,2,Karen Partners,13500
+Sales,3,Alberto Errazuriz,12000
+Shipping,1,Adam Fripp,8200
+Shipping,2,Matthew Weiss,8000
+Shipping,3,Payam Kaufling,7900

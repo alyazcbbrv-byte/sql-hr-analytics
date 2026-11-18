@@ -1,0 +1,10 @@
+job_title,headcount,avg_compa_ratio,below_80pct,above_120pct
+Accountant,5,1.2,0,2
+Stock Manager,5,1.04,0,0
+Sales Representative,30,0.93,9,2
+Programmer,5,0.82,3,1
+Sales Manager,5,0.81,3,0
+Shipping Clerk,20,0.8,11,0
+Stock Clerk,20,0.79,12,0
+Administration Vice President,2,0.76,2,0
+Purchasing Clerk,5,0.7,5,0

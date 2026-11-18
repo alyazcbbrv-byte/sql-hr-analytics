@@ -1,0 +1,12 @@
+department_name,manager,location,headcount,payroll,pct_of_payroll,avg_salary,avg_tenure_years,on_commission
+Sales,John Singh,"Oxford, United Kingdom",34,304500,44.5,8956.0,2.0,34
+Shipping,Adam Fripp,"South San Francisco, United States of America",45,156400,22.9,3476.0,2.2,0
+Executive,Steven King,"Seattle, United States of America",3,58000,8.5,19333.0,4.9,0
+Finance,Nancy Gruenberg,"Seattle, United States of America",6,51608,7.5,8601.0,3.2,0
+IT,Alexander James,"Southlake, United States of America",5,28800,4.2,5760.0,1.9,0
+Purchasing,Den Li,"Seattle, United States of America",6,24900,3.6,4150.0,2.9,0
+Accounting,Shelley Higgins,"Seattle, United States of America",2,20308,3.0,10154.0,5.9,0
+Marketing,Michael Martinez,"Toronto, Canada",2,19000,2.8,9500.0,3.4,0
+Public Relations,Hermann Brown,"Munich, Germany",1,10000,1.5,10000.0,5.9,0
+Human Resources,Susan Jacobs,"London, United Kingdom",1,6500,0.9,6500.0,5.9,0
+Administration,Jennifer Whalen,"Seattle, United States of America",1,4400,0.6,4400.0,4.6,0

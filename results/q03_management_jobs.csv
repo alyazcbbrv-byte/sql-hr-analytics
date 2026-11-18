@@ -1,0 +1,9 @@
+job_id,job_title,min_salary,max_salary,range_width
+AD_PRES,President,20080,40000,19920
+AD_VP,Administration Vice President,15000,30000,15000
+SA_MAN,Sales Manager,10000,20080,10080
+FI_MGR,Finance Manager,8200,16000,7800
+AC_MGR,Accounting Manager,8200,16000,7800
+PU_MAN,Purchasing Manager,8000,15000,7000
+MK_MAN,Marketing Manager,9000,15000,6000
+ST_MAN,Stock Manager,5500,8500,3000

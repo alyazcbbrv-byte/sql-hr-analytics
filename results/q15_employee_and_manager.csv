@@ -1,0 +1,16 @@
+employee_id,employee,manager,salary,manager_salary
+100,Steven King,(top of the organisation),24000,
+172,Elizabeth Bates,Gerald Cambrault,7300,11000
+169,Harrison Bloom,Gerald Cambrault,10000,11000
+170,Tayler Fox,Gerald Cambrault,9600,11000
+173,Sundita Kumar,Gerald Cambrault,6100,11000
+168,Lisa Ozer,Gerald Cambrault,11500,11000
+171,William Smith,Gerald Cambrault,7400,11000
+166,Sundar Ande,Alberto Errazuriz,6400,12000
+167,Amit Banda,Alberto Errazuriz,6200,12000
+163,Danielle Greene,Alberto Errazuriz,9500,12000
+165,David Lee,Alberto Errazuriz,6800,12000
+164,Mattea Marvins,Alberto Errazuriz,7200,12000
+162,Clara Vishney,Alberto Errazuriz,10500,12000
+130,Mozhe Atkinson,Adam Fripp,2800,8200
+129,Laura Bissot,Adam Fripp,3300,8200
